@@ -1,4 +1,4 @@
-# Web scraping to gain company insights British Airways (BA)
+# Web scraping to gain company insights British Airways
 
 The Customer Sentiment Analysis project for British Airways aims to gain valuable insights into the airline's clientele by analyzing and interpreting customer feedback and comments. By leveraging natural language processing (NLP) techniques, this project aims to extract sentiment, identify recurring themes, and uncover patterns and trends within the comments provided by British Airways' customers.
 
